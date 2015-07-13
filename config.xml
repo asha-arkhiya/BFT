@@ -3,7 +3,7 @@
 <!-- CHANGE HERE -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="im.iwc.yellowcab" versionCode="100" version="1.0.0">
    <!-- CHANGE HERE -->
-   <name>Yellow Cab</name>
+   <name>BFT</name>
    <!-- CHANGE HERE -->
    <description>Yellow Cab Booking Application</description>
    <author href="http://iwebcab.com" email="support@iwebcab.com">iWebCab.com</author>
